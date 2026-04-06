@@ -1,0 +1,31 @@
+# Build artifacts
+dist/
+build/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.csv
+
+# Documents (not code)
+*.docx
+*.pdf
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
