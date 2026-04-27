@@ -1,5 +1,7 @@
 # Kalman Filter Prediction Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Multi-Model State Estimation with Confidence Intervals**
 
 A desktop application that reads a time series from a CSV file and uses Kalman filtering to predict the next 10 values with 95% confidence intervals. Supports multiple filter types and motion models, with real-time visualization of predictions against historical data.
