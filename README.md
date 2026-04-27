@@ -71,4 +71,4 @@ PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MB
 
 ## License
 
-GPL-3.0 License
+MIT License
