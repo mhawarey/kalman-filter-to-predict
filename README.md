@@ -63,6 +63,7 @@ Output: 10-day price forecast with confidence bands
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
